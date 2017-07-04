@@ -1,0 +1,17 @@
+/.project
+/node_modules
+/log
+/pids
+/coverage
+/public
+npm-debug.log
+
+#WebStorm IDE directory
+.idea/
+
+actions/redisTestBed.js
+apiDocumentation
+.vagrant
+
+*.txt
+*.tmp
